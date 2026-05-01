@@ -9,6 +9,7 @@ Si ce depot public s'appelle `snoozi-legal` sur le compte `Tuberculose`:
 - `https://tuberculose.github.io/snoozi-legal/`
 - `https://tuberculose.github.io/snoozi-legal/privacy/`
 - `https://tuberculose.github.io/snoozi-legal/delete-account/`
+- `https://tuberculose.github.io/snoozi-legal/data-delete/`
 
 ## Activation GitHub Pages gratuite
 
@@ -30,4 +31,10 @@ Account deletion URL:
 
 ```text
 https://tuberculose.github.io/snoozi-legal/delete-account/
+```
+
+Delete data URL:
+
+```text
+https://tuberculose.github.io/snoozi-legal/data-delete/
 ```
